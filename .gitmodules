@@ -1,0 +1,6 @@
+[submodule "school-backend"]
+	path = school-backend
+	url = https://github.com/yousefs3d/school-backend.git
+[submodule "school-frontend"]
+	path = school-frontend
+	url = https://github.com/yousefs3d/school-frontend.git
